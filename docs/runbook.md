@@ -15,5 +15,3 @@ Actions → Publish documentation → Run workflow.
 
 ## Восстановление
 [Инструкция по восстановлению](incidents.md).
-
-[Missing](missing-page.md)
